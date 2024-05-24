@@ -1,2 +1,2 @@
-react-app/blobs/sha256/ filter=lfs diff=lfs merge=lfs -text
+/Users/jasper/Downloads/My_first_react_app/react-app/blobs/sha256/ filter=lfs diff=lfs merge=lfs -text
 react-app/blobs/sha256/* filter=lfs diff=lfs merge=lfs -text
